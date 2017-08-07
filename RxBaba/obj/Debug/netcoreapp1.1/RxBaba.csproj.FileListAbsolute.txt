@@ -1,0 +1,9 @@
+c:\users\a708746\documents\visual studio 2017\Projects\RxBaba\RxBaba\bin\Debug\netcoreapp1.1\RxBaba.deps.json
+c:\users\a708746\documents\visual studio 2017\Projects\RxBaba\RxBaba\bin\Debug\netcoreapp1.1\RxBaba.runtimeconfig.json
+c:\users\a708746\documents\visual studio 2017\Projects\RxBaba\RxBaba\bin\Debug\netcoreapp1.1\RxBaba.runtimeconfig.dev.json
+c:\users\a708746\documents\visual studio 2017\Projects\RxBaba\RxBaba\bin\Debug\netcoreapp1.1\RxBaba.dll
+c:\users\a708746\documents\visual studio 2017\Projects\RxBaba\RxBaba\obj\Debug\netcoreapp1.1\RxBaba.csprojResolveAssemblyReference.cache
+c:\users\a708746\documents\visual studio 2017\Projects\RxBaba\RxBaba\obj\Debug\netcoreapp1.1\RxBaba.AssemblyInfo.cs
+c:\users\a708746\documents\visual studio 2017\Projects\RxBaba\RxBaba\bin\Debug\netcoreapp1.1\RxBaba.pdb
+c:\users\a708746\documents\visual studio 2017\Projects\RxBaba\RxBaba\obj\Debug\netcoreapp1.1\RxBaba.dll
+c:\users\a708746\documents\visual studio 2017\Projects\RxBaba\RxBaba\obj\Debug\netcoreapp1.1\RxBaba.pdb
